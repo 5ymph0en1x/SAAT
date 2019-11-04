@@ -1,0 +1,6 @@
+bitfinex-v2
+matplotlib
+numpy
+pandas
+PyYAML
+statsmodels
